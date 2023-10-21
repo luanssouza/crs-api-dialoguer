@@ -1,0 +1,16 @@
+{
+"movie_search_by_actor": [{"entity": "actor_actress:actor_actress"}],
+"movie_search_by_director": [{"entity": "director:director"}],
+"release_year_search_by_movie": [{"entity":"movie:movie"}],
+"search_movie_actors": [{"entity":"movie:movie"}],
+"search_movie_director": [{"entity":"movie:movie"}],
+"search_overview_for_movie": [{"entity":"movie:movie"}],
+"search_popularity_by_year": [{"entity":"wit$datetime:datetime"}],
+"search_rating_for_movie": [{"entity":"movie:movie"}],
+"search_similar_movies": [{"entity":"movie:movie"}],
+"movie_search_by_duration": [{"entity":"wit/duration:wit/duration"}],
+"movie_search_by_local": [{"entity":"wit/location:wit/location"}],
+"characteristic": [{"entity":"characteristic"}],
+"property":[{"entity":"property"}],
+"user_about":[{"entity":"wit$age_of_person:age_of_person"}]
+}
